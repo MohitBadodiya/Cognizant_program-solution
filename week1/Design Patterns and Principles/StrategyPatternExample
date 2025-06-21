@@ -1,4 +1,3 @@
-// Test Class
 public class StrategyPatternExample {
     public static void main(String[] args) {
         PaymentContext context;
