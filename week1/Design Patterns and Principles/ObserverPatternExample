@@ -1,6 +1,5 @@
 import java.util.*;
 
-// Test Class
 public class ObserverPatternExample {
     public static void main(String[] args) {
         StockMarket market = new StockMarket();
