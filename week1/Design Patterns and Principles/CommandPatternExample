@@ -1,4 +1,3 @@
-// Test Class
 public class CommandPatternExample{
     public static void main(String[] args) {
         Light light = new Light();
